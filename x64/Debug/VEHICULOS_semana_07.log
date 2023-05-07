@@ -1,0 +1,7 @@
+﻿  VEHICULOS_semana_07.cpp
+D:\Universidad\Programacion 2\VEHICULOS_semana_07\Carro.h(57,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Universidad\Programacion 2\VEHICULOS_semana_07\Bus.h(60,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Universidad\Programacion 2\VEHICULOS_semana_07\Juego.h(110,8): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\Universidad\Programacion 2\VEHICULOS_semana_07\Juego.h(131,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  VEHICULOS_semana_07.vcxproj -> D:\Universidad\Programacion 2\VEHICULOS_semana_07\x64\Debug\VEHICULOS_semana_07.exe

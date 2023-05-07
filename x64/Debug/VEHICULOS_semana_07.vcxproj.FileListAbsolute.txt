@@ -1,0 +1,3 @@
+D:\Universidad\Programacion 2\VEHICULOS_semana_07\x64\Debug\VEHICULOS_semana_07.vcxproj.AssemblyReference.cache
+D:\Universidad\Programacion 2\VEHICULOS_semana_07\x64\Debug\VEHICULOS_semana_07.vcxproj.SuggestedBindingRedirects.cache
+D:\Universidad\Programacion 2\VEHICULOS_semana_07\x64\Debug\VEHICULOS_semana_07.exe
